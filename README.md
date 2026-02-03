@@ -1,4 +1,4 @@
-# ExplanAI-RAG: Production-Grade ML Observability
+# ExplanAI-RAG: ML Observability
 
 ExplanAI-RAG is a specialized Retrieval-Augmented Generation (RAG) system designed to bridge the gap between MLOps artifacts and natural language reasoning. Unlike generic RAG implementations, this system is engineered specifically to ingest, index, and reason over structured ML experiment data (metrics, hyperparameters, and logs).
 
